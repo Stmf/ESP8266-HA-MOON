@@ -3,7 +3,7 @@
 MOON: ESP8266 + Home Assistant
 
 configuration.yaml :
-
+```
 mqtt:
     broker: 192.168.1.10
     port: 1883
@@ -37,3 +37,4 @@ switch:
     optimistic: false
     qos: 0
     retain: true
+```
